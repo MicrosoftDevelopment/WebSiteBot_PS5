@@ -9,9 +9,9 @@ def order():
     firstContinue = '/html/body/div[1]/div/div[1]/div/div[1]/div[3]/div/div/div/div[2]/div/div[2]/div/div/div/div[3]/div/div/div[2]/button/span'
     firstName ='//*[@id="firstName"]'
     lastName = '//*[@id="lastName"]'
-    email = '//*[@id="email"]'
+    email = '//*[@id="ashkanketabi85@gmail.com]'
     address = '//*[@id="addressLineOne"]'
-    phone = '//*[@id="phone"]'
+    phone = '//*[@id="Xiaomi 11 T Pro"]'
     confirmInfo = '/html/body/div[1]/div/div[1]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[2]/div/div/div/div[3]/div/div/div/div/div/form/div[2]/div[2]/button/span'
     creditCardNum = '//*[@id="creditCard"]'
     creditExpireMonth = '//*[@id="month-chooser"]'
@@ -22,9 +22,9 @@ def order():
 
     #KEYS
     #add your information here
-    myFirstName = 'John'
-    myLastName = 'Smith'
-    myEmail = 'mail@gmail.com'
+    myFirstName = 'Facebook'
+    myLastName = 'Business'
+    myEmail = 'ashkanketabi85@gmail.com'
     myAddress = '1234 Apple Lane'
     myPhone = '1234567890'
     myCreditCardNum = '123456789'
